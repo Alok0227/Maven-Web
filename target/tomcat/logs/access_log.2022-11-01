@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [01/Nov/2022:18:13:49 +0530] "GET /alok-maven-web HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Nov/2022:18:13:50 +0530] "GET /alok-maven-web/ HTTP/1.1" 200 422 http-bio-9090-exec-3 281
+0:0:0:0:0:0:0:1 - - [01/Nov/2022:18:13:50 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
